@@ -1,0 +1,5 @@
+c:\users\andre\documents\visual studio 2013\Projects\ebid.ConsoleApp\ebid.Domain\bin\Debug\ebid.Domain.dll
+c:\users\andre\documents\visual studio 2013\Projects\ebid.ConsoleApp\ebid.Domain\bin\Debug\ebid.Domain.pdb
+c:\users\andre\documents\visual studio 2013\Projects\ebid.ConsoleApp\ebid.Domain\obj\Debug\ebid.Domain.csprojResolveAssemblyReference.cache
+c:\users\andre\documents\visual studio 2013\Projects\ebid.ConsoleApp\ebid.Domain\obj\Debug\ebid.Domain.dll
+c:\users\andre\documents\visual studio 2013\Projects\ebid.ConsoleApp\ebid.Domain\obj\Debug\ebid.Domain.pdb
